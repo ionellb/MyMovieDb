@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMovieDb</string>
+    <string name="toolbar_title">Top Movies</string>
+    <string name="search_the_movie_database">Search the Movie Database</string>
+    <string name="star_emoji">&#x2B50; 8.2</string>
+    <string name="star">&#x2B50;</string>
+    <string name="actionbar_title">TMDb Top Movies</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
